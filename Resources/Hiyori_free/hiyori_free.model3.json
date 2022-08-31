@@ -8,17 +8,6 @@
 		"Physics": "hiyori_free_t08.physics3.json",
 		"DisplayInfo": "hiyori_free_t08.cdi3.json",
 		"Motions": {
-			"Idle2": [
-				{
-					"File": "motion/hiyori_m01.motion3.json"
-				},
-				{
-					"File": "motion/hiyori_m02.motion3.json"
-				},
-				{
-					"File": "motion/hiyori_m05.motion3.json"
-				}
-			],
 			"Flick": [
 				{
 					"File": "motion/hiyori_m03.motion3.json"
@@ -66,28 +55,13 @@
 			],
 			"Idle": [
 				{
-					"File": "motion/idling1.motion3.json"
+					"File": "motion/hiyori_m01.motion3.json"
 				},
 				{
-					"File": "motion/idling2.motion3.json"
+					"File": "motion/hiyori_m02.motion3.json"
 				},
 				{
-					"File": "motion/idling3.motion3.json"
-				},
-				{
-					"File": "motion/idling4.motion3.json"
-				},
-				{
-					"File": "motion/idling5.motion3.json"
-				},
-				{
-					"File": "motion/idling6.motion3.json"
-				},
-				{
-					"File": "motion/idling7.motion3.json"
-				},
-				{
-					"File": "motion/idling8.motion3.json"
+					"File": "motion/hiyori_m05.motion3.json"
 				}
 			]
 		}
