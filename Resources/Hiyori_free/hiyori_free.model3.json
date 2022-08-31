@@ -7,6 +7,12 @@
 		],
 		"Physics": "hiyori_free_t08.physics3.json",
 		"DisplayInfo": "hiyori_free_t08.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "nomal",
+				"File": "expressions/nomal.exp3.json"
+			}
+		],
 		"Motions": {
 			"Flick": [
 				{
