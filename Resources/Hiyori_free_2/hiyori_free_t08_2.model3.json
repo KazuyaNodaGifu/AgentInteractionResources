@@ -112,7 +112,7 @@
 					"File": "motion/hate.motion3.json"
 				}
 			],
-			"Idling": [
+			"Idle": [
 				{
 					"File": "motion/hiyori_m01.motion3.json"
 				},
