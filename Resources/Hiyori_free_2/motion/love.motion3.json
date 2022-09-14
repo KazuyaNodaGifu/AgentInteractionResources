@@ -5,13 +5,24 @@
 		"Fps": 30.0,
 		"Loop": true,
 		"AreBeziersRestricted": true,
-		"CurveCount": 17,
-		"TotalSegmentCount": 90,
-		"TotalPointCount": 233,
+		"CurveCount": 18,
+		"TotalSegmentCount": 91,
+		"TotalPointCount": 235,
 		"UserDataCount": 0,
 		"TotalUserDataSize": 0
 	},
 	"Curves": [
+		{
+			"Target": "Model",
+			"Id": "EyeBlink",
+			"Segments": [
+				0,
+				1,
+				0,
+				5.833,
+				1
+			]
+		},
 		{
 			"Target": "Parameter",
 			"Id": "ParamAngleX",
