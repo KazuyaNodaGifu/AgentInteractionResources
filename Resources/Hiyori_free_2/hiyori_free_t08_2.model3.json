@@ -112,7 +112,7 @@
 					"File": "motion/hate.motion3.json"
 				}
 			],
-			"Idle": [
+			"Idling": [
 				{
 					"File": "motion/hiyori_m01.motion3.json"
 				},
@@ -120,15 +120,15 @@
 					"File": "motion/hiyori_m02.motion3.json"
 				},
 				{
-					"File": "motion/hiyori_m03.motion3.json"
+					"File": "motion/hiyori_m05.motion3.json"
 				}
 			],
-			"": [
+			"Idling2": [
 				{
-					"File": "motion/hiyori_m04.motion3.json"
+					"File": "motion/hiyori_m03.motion3.json"
 				},
 				{
-					"File": "motion/hiyori_m05.motion3.json"
+					"File": "motion/hiyori_m04.motion3.json"
 				},
 				{
 					"File": "motion/hiyori_m06.motion3.json"
@@ -138,7 +138,9 @@
 				},
 				{
 					"File": "motion/hiyori_m08.motion3.json"
-				},
+				}
+			],
+			"Idle": [
 				{
 					"File": "motion/idling1.motion3.json"
 				},
