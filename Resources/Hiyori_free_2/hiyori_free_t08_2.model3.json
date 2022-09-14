@@ -140,7 +140,7 @@
 					"File": "motion/hiyori_m08.motion3.json"
 				}
 			],
-			"Idle": [
+			"": [
 				{
 					"File": "motion/idling1.motion3.json"
 				},
