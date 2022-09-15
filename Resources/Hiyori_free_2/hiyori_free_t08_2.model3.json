@@ -123,7 +123,7 @@
 					"File": "motion/hiyori_m05.motion3.json"
 				}
 			],
-			"Idling2": [
+			"All": [
 				{
 					"File": "motion/hiyori_m03.motion3.json"
 				},
@@ -140,7 +140,7 @@
 					"File": "motion/hiyori_m08.motion3.json"
 				}
 			],
-			"": [
+			"Ideling1": [
 				{
 					"File": "motion/idling1.motion3.json"
 				},
