@@ -5,9 +5,9 @@
 		"Fps": 30.0,
 		"Loop": true,
 		"AreBeziersRestricted": false,
-		"CurveCount": 17,
-		"TotalSegmentCount": 83,
-		"TotalPointCount": 212,
+		"CurveCount": 21,
+		"TotalSegmentCount": 87,
+		"TotalPointCount": 220,
 		"UserDataCount": 0,
 		"TotalUserDataSize": 0
 	},
@@ -147,7 +147,7 @@
 				1,
 				1,
 				3.222,
-				1.012,
+				1.016,
 				3.444,
 				0,
 				3.667,
@@ -223,7 +223,7 @@
 				1,
 				1,
 				3.222,
-				1.012,
+				1.016,
 				3.444,
 				0,
 				3.667,
@@ -379,6 +379,17 @@
 		},
 		{
 			"Target": "Parameter",
+			"Id": "ParamBrowLRotation",
+			"Segments": [
+				0,
+				0,
+				0,
+				5.833,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
 			"Id": "ParamBrowRForm",
 			"Segments": [
 				0,
@@ -403,6 +414,17 @@
 				4.556,
 				0,
 				5.333,
+				0,
+				0,
+				5.833,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowRRotation",
+			"Segments": [
+				0,
 				0,
 				0,
 				5.833,
@@ -509,6 +531,17 @@
 		},
 		{
 			"Target": "Parameter",
+			"Id": "ParamBodyAngleX",
+			"Segments": [
+				0,
+				0,
+				0,
+				5.833,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
 			"Id": "ParamBodyAngleY",
 			"Segments": [
 				0,
@@ -547,6 +580,17 @@
 				4.556,
 				0,
 				5.333,
+				0,
+				0,
+				5.833,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBodyAngleZ",
+			"Segments": [
+				0,
 				0,
 				0,
 				5.833,
