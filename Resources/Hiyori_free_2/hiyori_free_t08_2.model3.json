@@ -53,6 +53,10 @@
 				"File": "expressions/anger11-9.exp3.json"
 			},
 			{
+				"Name": "default",
+				"File": "expressions/default.exp3.json"
+			},
+			{
 				"Name": "happy11-1",
 				"File": "expressions/happy11-1.exp3.json"
 			},
@@ -99,24 +103,16 @@
 			{
 				"Name": "nomal",
 				"File": "expressions/nomal.exp3.json"
-			},
-			{
-				"Name": "default",
-				"File": "expressions/default.exp3.json"
 			}
 		],
 		"Motions": {
-			"Dislike": [
+			"": [
 				{
 					"File": "motion/dislike.motion3.json"
-				}
-			],
-			"Hate": [
+				},
 				{
 					"File": "motion/hate.motion3.json"
-				}
-			],
-			"Idle": [
+				},
 				{
 					"File": "motion/hiyori_m01.motion3.json"
 				},
@@ -124,15 +120,13 @@
 					"File": "motion/hiyori_m02.motion3.json"
 				},
 				{
-					"File": "motion/hiyori_m05.motion3.json"
-				}
-			],
-			"All": [
-				{
 					"File": "motion/hiyori_m03.motion3.json"
 				},
 				{
 					"File": "motion/hiyori_m04.motion3.json"
+				},
+				{
+					"File": "motion/hiyori_m05.motion3.json"
 				},
 				{
 					"File": "motion/hiyori_m06.motion3.json"
@@ -143,23 +137,6 @@
 				{
 					"File": "motion/hiyori_m08.motion3.json"
 				},
-				{
-					"File": "motion/dislike.motion3.json"
-				},
-				{
-					"File": "motion/hate.motion3.json"
-				},
-				{
-					"File": "motion/like.motion3.json"
-				},
-				{
-					"File": "motion/love.motion3.json"
-				},
-				{
-					"File": "motion/nomal.motion3.json"
-				}
-			],
-			"Ideling1": [
 				{
 					"File": "motion/idling1.motion3.json"
 				},
@@ -183,19 +160,13 @@
 				},
 				{
 					"File": "motion/idling8.motion3.json"
-				}
-			],
-			"Like": [
+				},
 				{
 					"File": "motion/like.motion3.json"
-				}
-			],
-			"Love": [
+				},
 				{
 					"File": "motion/love.motion3.json"
-				}
-			],
-			"Nomal": [
+				},
 				{
 					"File": "motion/nomal.motion3.json"
 				}
@@ -205,17 +176,17 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": [
-				"ParamMouthOpenY"
-			]
-		},
-		{
-			"Target": "Parameter",
 			"Name": "EyeBlink",
 			"Ids": [
 				"ParamEyeLOpen",
 				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
 			]
 		}
 	],

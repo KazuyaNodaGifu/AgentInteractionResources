@@ -45,12 +45,12 @@
 		},
 		{
 			"Id": "ParamBrowRRotation",
-			"Value": -18,
+			"Value": -0.6,
 			"Blend": "Add"
 		},
 		{
 			"Id": "ParamBrowLRotation",
-			"Value": -18,
+			"Value": -0.6,
 			"Blend": "Add"
 		}
 	]
