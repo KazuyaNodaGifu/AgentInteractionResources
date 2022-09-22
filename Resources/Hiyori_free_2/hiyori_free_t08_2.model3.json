@@ -127,7 +127,7 @@
 					"File": "motion/hiyori_m05.motion3.json"
 				}
 			],
-			"Idling1": [
+			"All": [
 				{
 					"File": "motion/hiyori_m03.motion3.json"
 				},
@@ -142,6 +142,21 @@
 				},
 				{
 					"File": "motion/hiyori_m08.motion3.json"
+				},
+				{
+					"File": "motion/dislike.motion3.json"
+				},
+				{
+					"File": "motion/hate.motion3.json"
+				},
+				{
+					"File": "motion/like.motion3.json"
+				},
+				{
+					"File": "motion/love.motion3.json"
+				},
+				{
+					"File": "motion/nomal.motion3.json"
 				}
 			],
 			"Idling2": [
