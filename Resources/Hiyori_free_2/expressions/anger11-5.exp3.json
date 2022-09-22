@@ -38,8 +38,8 @@
 		},
 		{
 			"Id": "ParamMouthForm",
-			"Value": -0.8,
-			"Blend": "Multiply"
+			"Value": -1.8,
+			"Blend": "Add"
 		},
 		{
 			"Id": "ParamBrowRRotation",

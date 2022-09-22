@@ -49,7 +49,7 @@
 		{
 			"Id": "ParamMouthForm",
 			"Value": 0,
-			"Blend": "Add"
+			"Blend": "Multiply"
 		},
 		{
 			"Id": "ParamMouthOpenY",

@@ -3,8 +3,8 @@
 	"Parameters": [
 		{
 			"Id": "ParamMouthForm",
-			"Value": 0.2,
-			"Blend": "Multiply"
+			"Value": -0.8,
+			"Blend": "Add"
 		},
 		{
 			"Id": "ParamEyeLSmile",

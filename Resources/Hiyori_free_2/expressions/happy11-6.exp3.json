@@ -28,8 +28,8 @@
 		},
 		{
 			"Id": "ParamMouthForm",
-			"Value": 1,
-			"Blend": "Multiply"
+			"Value": 0,
+			"Blend": "Add"
 		},
 		{
 			"Id": "ParamBrowLForm",
