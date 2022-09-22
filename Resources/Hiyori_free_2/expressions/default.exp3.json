@@ -1,5 +1,7 @@
 {
 	"Type": "Live2D Expression",
+	"FadeInTime": 0,
+	"FadeOutTime": 0,
 	"Parameters": [
 		{
 			"Id": "ParamCheek",
@@ -8,8 +10,8 @@
 		},
 		{
 			"Id": "ParamEyeLOpen",
-			"Value": 1,
-			"Blend": "Multiply"
+			"Value": 0,
+			"Blend": "Add"
 		},
 		{
 			"Id": "ParamEyeLSmile",
@@ -18,8 +20,8 @@
 		},
 		{
 			"Id": "ParamEyeROpen",
-			"Value": 1,
-			"Blend": "Multiply"
+			"Value": 0,
+			"Blend": "Add"
 		},
 		{
 			"Id": "ParamEyeRSmile",
