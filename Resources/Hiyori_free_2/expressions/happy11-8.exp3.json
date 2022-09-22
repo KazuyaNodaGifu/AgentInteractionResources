@@ -45,6 +45,16 @@
 			"Id": "ParamMouthOpenY",
 			"Value": 0.5,
 			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowLRotation",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowRRotation",
+			"Value": 0,
+			"Blend": "Add"
 		}
 	]
 }

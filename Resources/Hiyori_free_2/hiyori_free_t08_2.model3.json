@@ -99,6 +99,10 @@
 			{
 				"Name": "nomal",
 				"File": "expressions/nomal.exp3.json"
+			},
+			{
+				"Name": "default",
+				"File": "expressions/default.exp3.json"
 			}
 		],
 		"Motions": {

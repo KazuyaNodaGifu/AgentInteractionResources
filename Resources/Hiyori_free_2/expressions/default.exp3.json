@@ -3,18 +3,8 @@
 	"Parameters": [
 		{
 			"Id": "ParamCheek",
-			"Value": -0.8,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamMouthForm",
-			"Value": 0.6,
-			"Blend": "Multiply"
-		},
-		{
-			"Id": "ParamMouthOpenY",
 			"Value": 0,
-			"Blend": "Add"
+			"Blend": "Multiply"
 		},
 		{
 			"Id": "ParamEyeLOpen",
@@ -39,22 +29,32 @@
 		{
 			"Id": "ParamBrowLForm",
 			"Value": 0,
-			"Blend": "Add"
+			"Blend": "Multiply"
 		},
 		{
 			"Id": "ParamBrowLRotation",
 			"Value": 0,
-			"Blend": "Add"
+			"Blend": "Multiply"
 		},
 		{
 			"Id": "ParamBrowRForm",
 			"Value": 0,
-			"Blend": "Add"
+			"Blend": "Multiply"
 		},
 		{
 			"Id": "ParamBrowRRotation",
 			"Value": 0,
+			"Blend": "Multiply"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"Value": 0,
 			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"Value": 0,
+			"Blend": "Multiply"
 		}
 	]
 }
