@@ -10,45 +10,55 @@
 		"Expressions": [
 			{
 				"Name": "Happy_01",
-				"File": "../Motions/Happy_01.exp3.json"
+				"File": "../../AModel/expression/Happy_01.exp3.json"
 			},
 			{
 				"Name": "Happy_02",
-				"File": "../Motions/Happy_02.exp3.json"
+				"File": "../../AModel/expression/Happy_02.exp3.json"
 			},
 			{
 				"Name": "Happy_03",
-				"File": "../Motions/Happy_03.exp3.json"
+				"File": "../../AModel/expression/Happy_03.exp3.json"
 			},
 			{
 				"Name": "Happy_04",
-				"File": "../Motions/Happy_04.exp3.json"
+				"File": "../../AModel/expression/Happy_04.exp3.json"
 			},
 			{
 				"Name": "Happy_05",
-				"File": "../Motions/Happy_05.exp3.json"
+				"File": "../../AModel/expression/Happy_05.exp3.json"
 			},
 			{
 				"Name": "Happy_06",
-				"File": "../Motions/Happy_06.exp3.json"
+				"File": "../../AModel/expression/Happy_06.exp3.json"
 			},
 			{
 				"Name": "Happy_07",
-				"File": "../Motions/Happy_07.exp3.json"
+				"File": "../../AModel/expression/Happy_07.exp3.json"
 			},
 			{
 				"Name": "Happy_08",
-				"File": "../Motions/Happy_08.exp3.json"
+				"File": "../../AModel/expression/Happy_08.exp3.json"
 			},
 			{
 				"Name": "Happy_09",
-				"File": "../Motions/Happy_09.exp3.json"
+				"File": "../../AModel/expression/Happy_09.exp3.json"
 			},
 			{
 				"Name": "Happy_10",
-				"File": "../Motions/Happy_10.exp3.json"
+				"File": "../../AModel/expression/Happy_10.exp3.json"
 			}
-		]
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "../../AModel/motion/HappymotionA.motion3.json"
+				},
+				{
+					"File": "../../AModel/motion/HappymotionB.motion3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
