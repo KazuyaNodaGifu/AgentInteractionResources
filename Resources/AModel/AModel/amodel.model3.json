@@ -1,0 +1,66 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "AModel.moc3",
+		"Textures": [
+			"AModel.8192/texture_00.png"
+		],
+		"Physics": "AModel.physics3.json",
+		"DisplayInfo": "AModel.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Happy_01",
+				"File": "../Motions/Happy_01.exp3.json"
+			},
+			{
+				"Name": "Happy_02",
+				"File": "../Motions/Happy_02.exp3.json"
+			},
+			{
+				"Name": "Happy_03",
+				"File": "../Motions/Happy_03.exp3.json"
+			},
+			{
+				"Name": "Happy_04",
+				"File": "../Motions/Happy_04.exp3.json"
+			},
+			{
+				"Name": "Happy_05",
+				"File": "../Motions/Happy_05.exp3.json"
+			},
+			{
+				"Name": "Happy_06",
+				"File": "../Motions/Happy_06.exp3.json"
+			},
+			{
+				"Name": "Happy_07",
+				"File": "../Motions/Happy_07.exp3.json"
+			},
+			{
+				"Name": "Happy_08",
+				"File": "../Motions/Happy_08.exp3.json"
+			},
+			{
+				"Name": "Happy_09",
+				"File": "../Motions/Happy_09.exp3.json"
+			},
+			{
+				"Name": "Happy_10",
+				"File": "../Motions/Happy_10.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}
