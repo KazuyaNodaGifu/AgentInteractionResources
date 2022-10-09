@@ -50,12 +50,20 @@
 			}
 		],
 		"Motions": {
-			"": [
+			"Idle": [
 				{
 					"File": "../../AModel/motion/HappymotionA.motion3.json"
 				},
 				{
 					"File": "../../AModel/motion/HappymotionB.motion3.json"
+				}
+			],
+			"All": [
+				{
+					"File": "../motion/HappymotionA.motion3.json"
+				},
+				{
+					"File": "../motion/HappymotionB.motion3.json"
 				}
 			]
 		}
