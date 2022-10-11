@@ -50,7 +50,7 @@
 			}
 		],
 		"Motions": {
-			"Idle": [
+			"": [
 				{
 					"File": "../../AModel/motion/HappymotionA.motion3.json"
 				},
