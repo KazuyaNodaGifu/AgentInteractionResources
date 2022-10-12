@@ -4,42 +4,42 @@
 		{
 			"Id": "ParamNeutral",
 			"Value": 1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamHappy",
 			"Value": 1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamCheek_Happy",
 			"Value": 0.1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamEyeLOpen_Happy",
 			"Value": 0.1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamEyeROpen_Happy",
 			"Value": 0.1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamBrowL_Happy",
 			"Value": 0.1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamBrowR_Happy",
 			"Value": 0.1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamMouth_Happy",
 			"Value": 0.1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		}
 	]
 }
