@@ -6,7 +6,7 @@
 		{
 			"Id": "ParamCheek",
 			"Value": -1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamEyeLOpen",
@@ -31,27 +31,27 @@
 		{
 			"Id": "ParamBrowLForm",
 			"Value": -0.6,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamBrowRForm",
 			"Value": -0.6,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamMouthForm",
 			"Value": -1.8,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
-			"Id": "ParamBrowLRotation",
-			"Value": -0.4,
-			"Blend": "Add"
+			"Id": "ParamBrowLAngle",
+			"Value": -0.6,
+			"Blend": "Overwrite"
 		},
 		{
-			"Id": "ParamBrowRRotation",
-			"Value": -0.4,
-			"Blend": "Add"
+			"Id": "ParamBrowRAngle",
+			"Value": -0.6,
+			"Blend": "Overwrite"
 		}
 	]
 }

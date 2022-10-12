@@ -5,18 +5,18 @@
 	"Parameters": [
 		{
 			"Id": "ParamCheek",
-			"Value": -0.9,
-			"Blend": "Add"
+			"Value": -0.3,
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamMouthForm",
-			"Value": -0.6,
-			"Blend": "Add"
+			"Value": -0.7,
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamMouthOpenY",
 			"Value": 0,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamEyeLOpen",
@@ -41,22 +41,12 @@
 		{
 			"Id": "ParamBrowLForm",
 			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowLRotation",
-			"Value": 0,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamBrowRForm",
 			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowRRotation",
-			"Value": 0,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		}
 	]
 }
