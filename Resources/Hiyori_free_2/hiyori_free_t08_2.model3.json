@@ -53,10 +53,6 @@
 				"File": "expressions/anger11-9.exp3.json"
 			},
 			{
-				"Name": "default",
-				"File": "expressions/default.exp3.json"
-			},
-			{
 				"Name": "happy11-1",
 				"File": "expressions/happy11-1.exp3.json"
 			},
@@ -159,7 +155,7 @@
 					"File": "motion/nomal.motion3.json"
 				}
 			],
-			"Idling2": [
+			"": [
 				{
 					"File": "motion/idling1.motion3.json"
 				},
@@ -183,6 +179,9 @@
 				},
 				{
 					"File": "motion/idling8.motion3.json"
+				},
+				{
+					"File": "motion/nomal.motion3.json"
 				}
 			],
 			"Like": [
@@ -193,11 +192,6 @@
 			"Love": [
 				{
 					"File": "motion/love.motion3.json"
-				}
-			],
-			"Nomal": [
-				{
-					"File": "motion/nomal.motion3.json"
 				}
 			]
 		}

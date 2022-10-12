@@ -44,13 +44,13 @@
 			"Blend": "Overwrite"
 		},
 		{
-			"Id": "ParamBrowRAngle",
-			"Value": -0.6,
+			"Id": "ParamBrowRRotation",
+			"Value": -18,
 			"Blend": "Overwrite"
 		},
 		{
-			"Id": "ParamBrowLAngle",
-			"Value": -0.6,
+			"Id": "ParamBrowLRotation",
+			"Value": -18,
 			"Blend": "Overwrite"
 		}
 	]

@@ -45,12 +45,12 @@
 		},
 		{
 			"Id": "ParamBrowLAngle",
-			"Value": -0.4,
+			"Value": -12,
 			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamBrowRAngle",
-			"Value": -0.4,
+			"Value": -12,
 			"Blend": "Overwrite"
 		}
 	]

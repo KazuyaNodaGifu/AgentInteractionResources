@@ -40,7 +40,7 @@
 		},
 		{
 			"Id": "ParamMouthForm",
-			"Value": 0,
+			"Value": 0.5,
 			"Blend": "Overwrite"
 		},
 		{
@@ -59,13 +59,13 @@
 			"Blend": "Overwrite"
 		},
 		{
-			"Id": "ParamBrowLAngle",
-			"Value": -0.4,
+			"Id": "ParamBrowLRotation",
+			"Value": -12,
 			"Blend": "Overwrite"
 		},
 		{
-			"Id": "ParamBrowRAngle",
-			"Value": -0.4,
+			"Id": "ParamBrowRRotation",
+			"Value": -12,
 			"Blend": "Overwrite"
 		}
 	]
