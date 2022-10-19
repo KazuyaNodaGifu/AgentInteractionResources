@@ -350,12 +350,12 @@
 					"File": "../motion/Surprisedmotion.motion3.json"
 				}
 			],
-			"Angry_Lip": [
+			"Anger_Lip": [
 				{
 					"File": "../motion/Anger_Lipsync.motion3.json"
 				}
 			],
-			"Angry": [
+			"Anger": [
 				{
 					"File": "../motion/Angermotion.motion3.json"
 				}
