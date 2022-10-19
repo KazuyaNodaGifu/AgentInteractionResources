@@ -7,37 +7,32 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamHappy",
+			"Id": "ParamDisgust",
 			"Value": 1,
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamCheek_Happy",
+			"Id": "ParamEyeLOpen_Disgust",
 			"Value": 0.6,
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamEyeLOpen_Happy",
+			"Id": "ParamBrowL_Disgust",
 			"Value": 0.6,
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamEyeROpen_Happy",
+			"Id": "ParamEyeROpen_Disgust",
 			"Value": 0.6,
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamBrowL_Happy",
+			"Id": "ParamBrowR_Disgust",
 			"Value": 0.6,
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamBrowR_Happy",
-			"Value": 0.6,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamMouth_Happy",
+			"Id": "ParamMouth_Disgust",
 			"Value": 0.6,
 			"Blend": "Add"
 		}

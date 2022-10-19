@@ -2,43 +2,38 @@
 	"Type": "Live2D Expression",
 	"Parameters": [
 		{
+			"Id": "ParamDisgust",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen_Disgust",
+			"Value": 0.1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Disgust",
+			"Value": 0.1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Disgust",
+			"Value": 0.1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Disgust",
+			"Value": 0.1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Disgust",
+			"Value": 0.1,
+			"Blend": "Add"
+		},
+		{
 			"Id": "ParamNeutral",
 			"Value": 1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamHappy",
-			"Value": 1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamCheek_Happy",
-			"Value": 0.1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamEyeLOpen_Happy",
-			"Value": 0.1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamEyeROpen_Happy",
-			"Value": 0.1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowL_Happy",
-			"Value": 0.1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamBrowR_Happy",
-			"Value": 0.1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "ParamMouth_Happy",
-			"Value": 0.1,
 			"Blend": "Add"
 		}
 	]
