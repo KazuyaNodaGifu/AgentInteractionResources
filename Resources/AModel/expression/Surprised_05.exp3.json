@@ -4,37 +4,37 @@
 		{
 			"Id": "ParamNeutral",
 			"Value": 1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamSurprised",
 			"Value": 1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamEyeLOpen_Surprised",
 			"Value": 0.5,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamBrowL_Surprised",
 			"Value": 0.5,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamEyeROpen_Surprised",
 			"Value": 0.5,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamBrowR_Surprised",
 			"Value": 0.5,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamMouth_Surprised",
 			"Value": 0.5,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		}
 	]
 }

@@ -4,37 +4,37 @@
 		{
 			"Id": "ParamDisgust",
 			"Value": 1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamEyeLOpen_Disgust",
 			"Value": 0.1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamEyeROpen_Disgust",
 			"Value": 0.1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamBrowL_Disgust",
 			"Value": 0.1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamBrowR_Disgust",
 			"Value": 0.1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamMouth_Disgust",
 			"Value": 0.1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		},
 		{
 			"Id": "ParamNeutral",
 			"Value": 1,
-			"Blend": "Add"
+			"Blend": "Overwrite"
 		}
 	]
 }
