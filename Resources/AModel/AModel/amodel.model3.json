@@ -290,14 +290,15 @@
 			}
 		],
 		"Motions": {
-			"Idle": [
-				{
-					"File": "../../AModel/motion/HappymotionA.motion3.json"
-				}
-			],
 			"": [
 				{
+					"File": "../../AModel/motion/HappymotionA.motion3.json"
+				},
+				{
 					"File": "../../AModel/motion/HappymotionB.motion3.json"
+				},
+				{
+					"File": "../motion/Disgustmotion.motion3.json"
 				}
 			],
 			"All": [
@@ -348,6 +349,18 @@
 				},
 				{
 					"File": "../motion/Surprisedmotion.motion3.json"
+				},
+				{
+					"File": "motion/01.motion3.json"
+				},
+				{
+					"File": "motion/02.motion3.json"
+				},
+				{
+					"File": "motion/03.motion3.json"
+				},
+				{
+					"File": "motion/04.motion3.json"
 				}
 			],
 			"Anger_Lip": [
@@ -420,9 +433,32 @@
 					"File": "../motion/Surprisedmotion.motion3.json"
 				}
 			],
+			"Idle": [
+				{
+					"File": "motion/01.motion3.json"
+				},
+				{
+					"File": "motion/02.motion3.json"
+				},
+				{
+					"File": "motion/03.motion3.json"
+				},
+				{
+					"File": "motion/04.motion3.json"
+				}
+			],
 			"StartSpeak": [
 				{
-					"File": "../motion/Disgustmotion.motion3.json"
+					"File": "motion/01.motion3.json"
+				},
+				{
+					"File": "motion/02.motion3.json"
+				},
+				{
+					"File": "motion/03.motion3.json"
+				},
+				{
+					"File": "motion/04.motion3.json"
 				}
 			]
 		}
