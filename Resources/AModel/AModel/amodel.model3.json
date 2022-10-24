@@ -435,30 +435,30 @@
 			],
 			"Idle": [
 				{
-					"File": "motion/01.motion3.json"
+					"File": "../motion/01.motion3.json"
 				},
 				{
-					"File": "motion/02.motion3.json"
+					"File": "../motion/02.motion3.json"
 				},
 				{
-					"File": "motion/03.motion3.json"
+					"File": "../motion/03.motion3.json"
 				},
 				{
-					"File": "motion/04.motion3.json"
+					"File": "../motion/04.motion3.json"
 				}
 			],
 			"StartSpeak": [
 				{
-					"File": "motion/01.motion3.json"
+					"File": "../motion/01.motion3.json"
 				},
 				{
-					"File": "motion/02.motion3.json"
+					"File": "../motion/02.motion3.json"
 				},
 				{
-					"File": "motion/03.motion3.json"
+					"File": "../motion/03.motion3.json"
 				},
 				{
-					"File": "motion/04.motion3.json"
+					"File": "../motion/04.motion3.json"
 				}
 			]
 		}
