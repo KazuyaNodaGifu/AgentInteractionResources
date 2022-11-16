@@ -287,6 +287,22 @@
 			{
 				"Name": "Surprised_10",
 				"File": "../expression/Surprised_10.exp3.json"
+			},
+			{
+				"Name": "Anger_06_close",
+				"File": "../expression/Anger_06_close.exp3.json"
+			},
+			{
+				"Name": "Anger_07_close",
+				"File": "../expression/Anger_07_close.exp3.json"
+			},
+			{
+				"Name": "Anger_08_close",
+				"File": "../expression/Anger_08_close.exp3.json"
+			},
+			{
+				"Name": "Anger_09_close",
+				"File": "../expression/Anger_09_close.exp3.json"
 			}
 		],
 		"Motions": {
